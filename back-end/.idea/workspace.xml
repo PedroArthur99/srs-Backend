@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f60b404-0d8a-4b6f-8299-48f494303e6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basis/srs/servico/dto/ClienteDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basis/srs/servico/dto/ClienteDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ivLn2slyHT8ZKgl5Y5tm2OiOwZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.SistemaDeReservaDeSalasApplication">
+    <configuration name="SistemaDeReservaDeSalasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basis.srs.SistemaDeReservaDeSalasApplication" />
+      <module name="back-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basis.srs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservaRecursoIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basis.srs.web.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.basis.srs.web.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.basis.srs.web.rest.ReservaRecursoIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservaRecursoIT.deletarReservaInexistente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basis.srs.web.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.basis.srs.web.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.basis.srs.web.rest.ReservaRecursoIT" />
+      <option name="METHOD_NAME" value="deletarReservaInexistente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservaRecursoIT.salvarmDataOcupada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basis.srs.web.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.basis.srs.web.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.basis.srs.web.rest.ReservaRecursoIT" />
+      <option name="METHOD_NAME" value="salvarmDataOcupada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalaRecursoIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basis.srs.web.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.basis.srs.web.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.basis.srs.web.rest.SalaRecursoIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SistemaDeReservaDeSalasApplication" />
+        <item itemvalue="JUnit.SalaRecursoIT" />
+        <item itemvalue="JUnit.ReservaRecursoIT" />
+        <item itemvalue="JUnit.ReservaRecursoIT.deletarReservaInexistente" />
+        <item itemvalue="JUnit.ReservaRecursoIT.salvarmDataOcupada" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f60b404-0d8a-4b6f-8299-48f494303e6a" name="Default Changelist" comment="" />
+      <created>1602783317123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602783317123</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="392" key="GridCell.Tab.0.bottom" timestamp="1604180978233">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1874" height="392" key="GridCell.Tab.0.bottom/0.27.1920.996@0.27.1920.996" timestamp="1604180978233" />
+    <state width="1874" height="392" key="GridCell.Tab.0.center" timestamp="1604180978233">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1874" height="392" key="GridCell.Tab.0.center/0.27.1920.996@0.27.1920.996" timestamp="1604180978233" />
+    <state width="1874" height="392" key="GridCell.Tab.0.left" timestamp="1604180978232">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1874" height="392" key="GridCell.Tab.0.left/0.27.1920.996@0.27.1920.996" timestamp="1604180978232" />
+    <state width="1874" height="392" key="GridCell.Tab.0.right" timestamp="1604180978233">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1874" height="392" key="GridCell.Tab.0.right/0.27.1920.996@0.27.1920.996" timestamp="1604180978233" />
+    <state width="1874" height="237" key="GridCell.Tab.1.bottom" timestamp="1603300707520">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1874" height="237" key="GridCell.Tab.1.bottom/0.27.1920.996@0.27.1920.996" timestamp="1603300707520" />
+    <state width="1874" height="237" key="GridCell.Tab.1.center" timestamp="1603300707519">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1874" height="237" key="GridCell.Tab.1.center/0.27.1920.996@0.27.1920.996" timestamp="1603300707519" />
+    <state width="1874" height="237" key="GridCell.Tab.1.left" timestamp="1603300707519">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1874" height="237" key="GridCell.Tab.1.left/0.27.1920.996@0.27.1920.996" timestamp="1603300707519" />
+    <state width="1874" height="237" key="GridCell.Tab.1.right" timestamp="1603300707520">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1874" height="237" key="GridCell.Tab.1.right/0.27.1920.996@0.27.1920.996" timestamp="1603300707520" />
+    <state x="443" y="101" width="1024" height="845" key="SettingsEditor" timestamp="1603308252024">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="443" y="101" width="1024" height="845" key="SettingsEditor/0.27.1920.996@0.27.1920.996" timestamp="1603308252024" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+com/basis/srs/builder/ReservaBuilder.class
+com/basis/srs/builder/EquipamentoBuilder.class
+com/basis/srs/util/TestUtil$ZonedDateTimeMatcher.class
+com/basis/srs/builder/CustomizacaoEntidade.class
+com/basis/srs/web/rest/ClienteRecursoIT.class
+com/basis/srs/util/TestUtil.class
+com/basis/srs/builder/ConstrutorDeEntidade.class
+com/basis/srs/util/IntTestComum.class
+com/basis/srs/web/rest/EquipamentoRecursoIT.class
+com/basis/srs/builder/ClienteBuilder.class
+com/basis/srs/builder/SalaBuilder.class
+com/basis/srs/SistemaDeReservaDeSalasApplicationTests.class
+com/basis/srs/web/rest/ReservaRecursoIT.class
+com/basis/srs/web/rest/SalaRecursoIT.class

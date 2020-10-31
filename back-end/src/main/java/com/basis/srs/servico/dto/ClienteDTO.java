@@ -49,5 +49,4 @@ ClienteDTO {
     @NotBlank
     @Size(max = 255)
     private String email;
-
 }

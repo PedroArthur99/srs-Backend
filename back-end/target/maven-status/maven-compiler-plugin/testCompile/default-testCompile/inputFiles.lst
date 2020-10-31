@@ -1,0 +1,13 @@
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/web/rest/ReservaRecursoIT.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/builder/ConstrutorDeEntidade.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/builder/CustomizacaoEntidade.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/builder/SalaBuilder.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/util/IntTestComum.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/builder/ClienteBuilder.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/web/rest/ClienteRecursoIT.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/builder/ReservaBuilder.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/web/rest/EquipamentoRecursoIT.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/util/TestUtil.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/web/rest/SalaRecursoIT.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/builder/EquipamentoBuilder.java
+/home/pedro/Documents/srsBasis/srs_codigo_fonte/back-end/src/test/java/com/basis/srs/SistemaDeReservaDeSalasApplicationTests.java
